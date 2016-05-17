@@ -1,0 +1,16 @@
+{
+    "main": {
+      "zzz.xx": {
+        "id": "xxx",
+        "key": "xxx",
+        "md5": "xxx"
+      }
+    },
+    "description": {
+      "abc.txt": {
+        "id": "xxx",
+        "key": "xxx",
+        "md5": "xxx"
+      }
+    }
+}
